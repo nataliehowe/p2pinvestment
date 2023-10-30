@@ -4,3 +4,7 @@
 [30-Oct-2023 15:47:06 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $getLink in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 192
 [30-Oct-2023 15:58:06 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $slug in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 88
 [30-Oct-2023 15:58:06 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $getLink in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 192
+[30-Oct-2023 16:00:31 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $slug in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 88
+[30-Oct-2023 16:00:31 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $getLink in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 192
+[30-Oct-2023 16:02:10 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $slug in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 88
+[30-Oct-2023 16:02:10 UTC] PHP Deprecated:  Required parameter $id follows optional parameter $getLink in /home/claifmyn/pifi-group.biz/app/Http/Controllers/FrontendController.php on line 192
