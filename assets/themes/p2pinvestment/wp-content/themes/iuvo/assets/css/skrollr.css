@@ -1,0 +1,16 @@
+.skrollr-desktop,
+.skrollr-desktop body{height:100% !important}
+.parallax-image-wrapper{position:fixed;left:0;width:100%;/* overflow:hidden */}
+.parallax-image-wrapper-100{height:100%;top:-100%}
+.parallax-image{display:none;position:absolute;bottom:0;left:0;width:100%;background-repeat:no-repeat;background-position:center top;background-size:cover}
+.parallax-image-100{height:100%;top:0}
+.parallax-image.skrollable-between{display:block}
+.no-skrollr .parallax-image-wrapper{display:none !important}
+#skrollr-body{height:100%;overflow:visible;position:relative}
+.gap{background:transparent center no-repeat;background-size:cover}
+.skrollr .gap{background:transparent !important}
+.gap-100{height: 100vh;}
+.skrollr-mobile .skrollable{position:absolute}
+.skrollable-after .should-know-parallax {
+	display: block !important;
+}

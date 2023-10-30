@@ -1,0 +1,5 @@
+Replace \Update_files\Controllers\UsersController.php  file on that location
+
+\app\Http\Controllers\Admin
+
+
